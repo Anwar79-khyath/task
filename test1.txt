@@ -1,0 +1,6 @@
+public class HELLOWORLD 
+{
+public static voidmainn(string[]args{
+system.out.printin)("HELLO,WORLD!");
+}
+}
